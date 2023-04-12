@@ -1,0 +1,8 @@
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.AssemblyReference.cache
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.SuggestedBindingRedirects.cache
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\lincr\source\repos\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
