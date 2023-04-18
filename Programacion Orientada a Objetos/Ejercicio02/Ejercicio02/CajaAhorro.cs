@@ -14,11 +14,25 @@ namespace Ejercicio02
         private string _tipoMoneda;
         private int _saldo;
         private string _titular;
-
-        public int Numero { get { return _numero; } set { _numero = value; } }
-        public string TipoMoneda { get { return _tipoMoneda; } set { _tipoMoneda = value; } }
-        public int Saldo { get { return _saldo; } }
-        public string Titular { get { return _titular; } set { _titular = value; } }
+        public int Numero
+        {
+            get { return _numero; }
+            set { _numero = value; }
+        }
+        public string TipoMoneda
+        {
+            get { return _tipoMoneda; }
+            set { _tipoMoneda = value; }
+        }
+        public int Saldo 
+        { 
+            get { return _saldo; } 
+        }
+        public string Titular
+        {
+            get { return _titular; }
+            set { _titular = value; }
+        }
 
         public void Depositar(int monto)
         {

@@ -43,11 +43,12 @@ namespace Ejercicio02
                 switch (op)
                 {
                     case 1:
-                        Console.WriteLine("Ingrese su efectivo");
+                        Console.WriteLine("El saldo de su caja de ahorro es $" + cajaahorro.Depositar(monto) + ".");
+
                         break;
                         
 
-
+                       
                 }
             }
 
