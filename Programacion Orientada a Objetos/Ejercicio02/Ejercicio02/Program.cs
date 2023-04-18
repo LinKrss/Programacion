@@ -25,9 +25,6 @@ namespace Ejercicio02
             cajaahorro.Titular = _titular;
             cajaahorro.TipoMoneda = _tipoMoneda;
 
-            Console.WriteLine("Bienvenido Sr/Sra" + _titular);
-            Console.WriteLine("Que operacion en" + _tipoMoneda + " realizara en su cuenta n° " + _nroCuenta);
-
             int op = 1;
             while(op != 9)
             {
@@ -43,19 +40,30 @@ namespace Ejercicio02
                 switch (op)
                 {
                     case 1:
-                        Console.WriteLine("El saldo de su caja de ahorro es $" + cajaahorro.Depositar(monto) + ".");
-
+                        Console.WriteLine("El saldo de su caja de ahorro es $" + cajaahorro.Saldo + ".");
                         break;
-                        
+
+                    case 2:
+                        Console.WriteLine("Ingrese el monto a depositar");
+                        int deposito = int.Parse(Console.ReadLine());
+                        cajaahorro.Depositar(deposito);
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Ingrese el monto a extraer");
+                        int extraccion = int.Parse(Console.ReadLine());
+                        cajaahorro.Extraer(extraccion);
+                        break;
+
+                    case 4:
+                        Console.WriteLine("Los datos de su cuenta son: \n \tTitular:" + cajaahorro.Titular + "" + "\n \t Numero de cuenta: " + cajaahorro.Numero + "\n \t Tipo : CA " + cajaahorro.TipoMoneda + "");
+                        break;
 
                        
                 }
             }
 
-            
-        
-
-            
+            Console.ReadKey();
         }
     }
 }

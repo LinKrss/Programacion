@@ -14,6 +14,7 @@ namespace Ejercicio02
         private string _tipoMoneda;
         private int _saldo;
         private string _titular;
+
         public int Numero
         {
             get { return _numero; }
@@ -24,9 +25,9 @@ namespace Ejercicio02
             get { return _tipoMoneda; }
             set { _tipoMoneda = value; }
         }
-        public int Saldo 
-        { 
-            get { return _saldo; } 
+        public int Saldo
+        {
+            get { return _saldo; }
         }
         public string Titular
         {
@@ -34,23 +35,37 @@ namespace Ejercicio02
             set { _titular = value; }
         }
 
-        public void Depositar(int monto)
+        public string Depositar(int deposito)
         {
-            _saldo += monto;
+            if (deposito < 0)
+            {
+                return "El monto: " + deposito + "debe ser mayor que cero";
+            }
+            else
+            {
+                _saldo += deposito;
+                return $"Se ha depositado {deposito} {_tipoMoneda}";
+            }
         }
 
-        public string Extraer(int monto)
+        public string Extraer(int extraccion)
         {
-            if (monto <= _saldo)
-            { 
-                _saldo -= monto;
+            if (extraccion <= _saldo)
+            {
+                _saldo -= extraccion;
                 return "Operacion Correcta";
             }
-            
+
             else
             {
                 return "Saldo insuficiente";
             }
+        }
+
+        public string ConsultarSaldo()
+        {
+            return $"El saldo en {_tipoMoneda} es de {_saldo}";
+
         }
     }
 }
