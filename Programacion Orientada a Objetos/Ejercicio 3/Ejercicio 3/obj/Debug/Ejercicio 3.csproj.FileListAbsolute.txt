@@ -1,0 +1,11 @@
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio_3.FormCurso.resources
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\lincr\Desktop\Programacion-main\Programacion Orientada a Objetos\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb

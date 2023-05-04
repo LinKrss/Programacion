@@ -8,7 +8,7 @@ namespace Ejercicio_3
 {
     internal class Alumno
     {
-        private string _Legajo;
+        private int _Legajo;
         private string _Nombre;
         private string _Apellido;
         private DateTime _Fecha_Nacimiento;
@@ -16,7 +16,7 @@ namespace Ejercicio_3
         private bool _Activo;
         private int _Cant_Materia_Aprobadas;
 
-        public string NumeroLegajo
+        public int NumeroLegajo
         {
             get { return _Legajo; }
             set { _Legajo = value; }

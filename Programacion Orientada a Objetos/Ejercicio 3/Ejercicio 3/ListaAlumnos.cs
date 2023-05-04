@@ -44,7 +44,7 @@ namespace Ejercicio_3
                 return "El alumno ingresado no pertenece al listado de alumnos";
             }
         }
-        public string RemoverAlumno(string numeroLegajo)
+        public string RemoverAlumno(int numeroLegajo)
         {
             var alumnoExiste = listaAlumnos.FirstOrDefault(alumnoExistente => alumnoExistente.NumeroLegajo == numeroLegajo);
             if (alumnoExiste != null)
