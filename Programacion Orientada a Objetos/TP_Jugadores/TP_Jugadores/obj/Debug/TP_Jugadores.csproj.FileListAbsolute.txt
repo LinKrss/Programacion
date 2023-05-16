@@ -1,0 +1,8 @@
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\bin\Debug\TP_Jugadores.exe.config
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\bin\Debug\TP_Jugadores.exe
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\bin\Debug\TP_Jugadores.pdb
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\obj\Debug\TP_Jugadores.csproj.AssemblyReference.cache
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\obj\Debug\TP_Jugadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\obj\Debug\TP_Jugadores.csproj.CoreCompileInputs.cache
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\obj\Debug\TP_Jugadores.exe
+C:\Users\lincr\source\repos\TP_Jugadores\TP_Jugadores\obj\Debug\TP_Jugadores.pdb
